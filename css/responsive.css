@@ -1,0 +1,1152 @@
+
+
+
+
+
+@media(min-width:200px){
+
+	/* header-section*/ 
+	.bard-logo{
+		width: 100%;
+	}
+	.heder-land-mark{
+		font-size: 12px;
+	}
+	.heder-land-mark span{
+		margin-right: 0;
+		font-size: 12px
+	}
+	.header-brads{
+		padding: 20px 0
+	}
+	.header-main{
+		padding: 0;
+	}
+	.head-ph-no{
+		font-size: 12px
+	}
+	/*navbar-section*/
+	.navbar-default{
+		padding: 10px 0;
+		background: #fffffff7;
+
+	}
+	.navbar-header{
+		text-align: center;
+	}
+	.navbar-toggle{
+		display: inline-block;
+		float: none;
+		margin: 0;
+		padding: 16.5px;
+		background: url(../img/nav-icon.png);
+		background-size: cover;
+		border: none;
+	}
+	.navbar-default .navbar-toggle:hover, 
+	.navbar-default .navbar-toggle:focus{
+		background-color: transparent;
+	}
+	.container .navbar-collapse{
+		margin: 0px;
+		border: none;
+		position: absolute;
+		top: 100%;
+		left: 2%;
+		width: 96%;
+		background: #fffffff7;
+		z-index: 200
+
+	}
+	.nav.navbar-nav{
+		text-align: center;
+		display: block;
+		width: 100%;
+		margin: 0;
+	}
+	.nav > li{
+		padding: 7px 0
+	}
+	.navbar-default .navbar-nav > li > a{
+		font-size: 14.7px;
+		color: #403f45;
+		font-weight: 600;
+		text-shadow: 0 0 1px rgb(111 134 134 / 30%);
+	}
+	/*banner-section*/
+	.slick-prev,
+	.slick-prev:hover{
+		width: 35px;
+		height: 35px;
+		background-size: cover;
+		background-position:  0%;
+	}
+	.slick-next,
+	.slick-next:hover{
+		width: 35px;
+		height: 35px;
+		background-size: cover;
+		background-position:  100%;
+	}
+    /*--guids-section--*/
+    .guide-section{
+    	margin: 30px 0;
+    }
+    .guide-heading{
+    	font-size: 22px;
+    }
+    .guide-img-inner{
+    	padding: 0;
+    	margin: 20px 0;
+    }
+    .guide-img-inner img{
+        width: 100%;
+    }
+    .car-advice li > a{
+    	font-size: 13px;
+    }
+    .car-advice{
+    	margin-top: 20px
+    }
+    .car-advice li{
+    	margin-bottom: 5px
+    }
+    /*welcome-section*/
+    .heading{
+    	font-size: 22px;
+    }
+    .welcome-heading > .heading{
+       text-align: center;
+    }
+    .welcome-text-img{
+    	text-align: center;
+    	margin: 15px 0 20px
+    }
+    .welcome-text-img > a > img{
+    	max-width: 80%;
+    }
+    .welcome-text-img > p:nth-child(2){
+    	font-size: 13px;
+    }
+    .welcome-text-img > p:nth-child(3){
+    	font-size: 14px;
+    }
+    .our-articale-box > p{
+    	font-size: 13px;
+    	margin: 13px 0;
+    }
+    .articale-sub-box > .text-box > a{
+    	font-size: 13.5px;
+    }
+    .articale-sub-box > .text-box > p{
+    	font-size: 14px;
+    }
+    .video-heading{
+    	text-align: center;
+    }
+	.video-box-1{
+		width: 100%;
+		margin-top: 20px
+	}
+	/*services-section*/
+	.devicion-bar{
+		display: none;
+	}
+    .left-box-1{
+    	width: 100%;
+    	text-align: left;
+    	padding: 50px 0 10px 0; 
+    }
+    .left-box-1 p:nth-child(1){
+    	font-size: 13px;
+    }
+    .left-box-1 p:nth-child(2){
+    	font-size: 14px;
+    }
+    .left-box-1 > span{
+    	right: initial;
+    	top: 0;
+    	left: 46%;
+    	font-size: 13.5px;
+    	padding: 10px
+    }
+    .left-box-1.pull-right{
+    	padding: 0;
+    	padding: 50px 0 20px 0; 
+    }
+    .left-box-1 > span.glyphicon-tag{
+    	left: 46%;
+    }
+    .main-services{
+    	margin: 35px 0 0;
+    }
+    .our-section{
+    	margin: 25px 0 0;
+    }
+    
+    /*footer-section*/
+    footer{
+    	margin-top: 50px;
+    }
+    footer.button{
+       margin-top: 0
+    }
+    .footer-box > a > span{
+    	width: 23px;
+    	height: 23px;
+    }
+    .footer-box > a > span.facebook,
+    .footer-box > a > span.twiter,
+    .footer-box > a > span.google-plus{
+    	background-size: 300%
+    }
+    .footer-box:hover > a > span{
+    	background-position: 0 -69px;
+    }
+    .footer-box > a > span.twiter{
+    	background-position: -22px 0;
+    }
+    .footer-box:hover > a > span.twiter{
+    	background-position: -22px -69px;
+    }
+    .footer-box > a > span.google-plus{
+    	background-position: -46px 0;
+    }
+    .footer-box:hover > a > span.google-plus{
+    	background-position: -46px -69px;
+    }
+    .footer-box > span{
+    	font-size: 23px;
+    }
+    .footer-box > p > a{
+    	font-size: 13px;
+    }
+    .footer-box{
+    	padding: 29px 0;
+    }
+    .footer-section{
+    	padding: 10px 0;
+    }
+    .footer-copyright-section p{
+    	font-size: 14.4px;
+    }
+    .footer-copyright-section{
+    	padding: 20px 0
+    }
+    /*go-to-top*/
+    .arrow-top > a > img{
+        width: 28px;
+        height: 21px;
+    }
+    /*about-section-2*/
+    .about-section-2{
+    	margin: 25px 0;
+    }
+    .list-birds > a{
+    	font-size: 13px;
+    	margin: 10px 0 0;
+    }
+    .list-brids > li{
+    	margin: 7px 0;
+    }
+    .list-brids > li > a{
+    	font-size: 13px;
+    }
+    .list-birds{
+    	margin-bottom: 24px
+    }
+    .exotic-brads > a{
+    	font-size: 13px;
+    }
+    .exotic-brads > p{
+    	font-size: 13px;
+    	line-height: 20px
+    }
+    .about-img-box{
+    	margin: 10px 0;
+    }
+    /*our-bird-section*/
+    .our-bird-section{
+    	margin: 0;
+    }
+    .our-birds-section > span > .box-inner{
+    	width: 200px;
+    	height: 200px;
+    }
+    .our-birds-section{
+    	margin: 20px 0 0;
+    	/*overflow-x: hidden;*/
+    }
+    .box-inner > .text-box > p{
+    	font-size: 14.3px;
+    	line-height: 17px;
+    	padding-top: 29px;
+    }
+    .our-birds-section > span{
+    	margin: 18px 10px;
+    }
+    /*categories-section-start*/
+    .categories-section{
+        margin: 30px 0 0;
+    }
+    .categories-section .image-text-box{
+        max-width: 100%;
+        margin-bottom: 15px
+    }
+    .categories-section .image-text-box > .text-box{
+        padding: 13px 15px;
+    }
+    .image-text-box > .text-box > h4{
+        font-size: 14.7px;
+        line-height: 20px
+    }
+    .text-box > .list-inline{
+        margin-top: 7px;
+        margin-bottom: 0;
+    }
+    .text-box > .list-inline > li > span, .text-box > .list-inline > li > a > span {
+        font-size: 13.9px;
+    }
+    .text-box > .list-inline > li, .text-box > .list-inline > li > a{
+        font-size: 13px;
+    }
+    .image-text-box > .text-box p{
+        margin-top: 8px;
+        line-height: 23px;
+        font-size: 14px;
+    }
+    .related-box{
+        margin: 20px -15px 0 0;
+    }
+    .related-box > p:nth-child(2){
+        font-size: 14px;
+        margin-top: 5px
+    }
+    .related-box > p:nth-child(3){
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .leave-comment-section{
+        margin: 14px 0
+    }
+    .leave-comment-section > form > .col-6{
+        width: 100%;
+    }
+    .leav-input > input, .leav-input > textarea{
+        font-size: 13px;
+        padding: 13px 13px;
+    }
+    .leav-input > textarea{
+        min-height: 130px;
+        padding-top: 5px;
+    }
+    .form-group.leav-input{
+        margin-bottom: 10px
+    }
+    .send-button{
+        font-size: 12px;
+        padding: 6px 19px;
+    }
+    .categories-box{
+        margin-left: 0;
+    }
+    .categoris-list > li > a{
+        font-size: 13.5px;
+    }
+    .categories-box + .categories-box{
+        margin-top: 24px
+    }
+    /*gallery-page-start*/
+    .gallery-bg{
+        padding: 22px 0 45px
+    }
+    .gallery-item{
+        margin: 15px 0;
+    }
+    /*services-page-strat*/
+    .services-section{
+        margin: 27px 0 0;
+    }
+    .heading-row{
+        margin-top: 10px
+    }
+    .heading-row > h1{
+        font-size: 20px;
+    }
+    .heading-row > h2{
+        font-size: 19px;
+    }
+    .heading-row > h2{
+        font-size: 18px;
+    }
+    .heading-row > h3{
+        font-size: 17px;
+    }
+    .heading-row > small{
+        font-size: 14px;
+        padding: 10px 10px 0 0;
+    }
+    .button-box{
+        margin: 10px 0;
+    }
+    .button-box > h1{
+        font-size: 17px;
+    }
+    .button-box > h2:nth-child(3){
+        font-size: 16px;
+    }
+    .button-box > h3{
+        font-size: 15px;
+    }
+    .button-box > h4{
+        font-size: 14px;
+    }
+    .button-box > h5{
+        font-size: 13px;
+    }
+    .button-box > h6{
+        font-size: 12px;
+    }
+    .button-box .heading{
+        margin-bottom: 20px; 
+    }
+    .progress-box p{
+        font-size: 14px;
+    }
+    .button-box .well{
+        font-size: 15px;
+    }
+    /*contact-page-strat*/
+    .contact-us-section{
+        margin-top: 25px
+    }
+    .contact-form-box{
+        margin-top: 15px
+    }
+    .contact-form > .form-control{
+        padding: 7px 12px;
+        font-size: 13px;
+    }
+    .contact-form{
+        margin-bottom: 13px
+    }
+    .contact-form > textarea.form-control{
+        height: 130px;
+    }
+    /*finde-us-section*/
+    .find-us-left{
+        padding: 30px 0;
+    }
+    .find-us-left > span{
+        font-size: 35px;
+    }
+    .find-us-left > h2{
+        font-size: 23px;
+        margin: 5px 0 11px;
+    }
+    .find-us-left > p:nth-child(3){
+        font-size: 14px;
+        margin-bottom: 6px;
+    }
+    .find-us-left > p:nth-child(4){
+        font-size: 14px;
+    }
+    .addres{
+        margin-top: 14px;
+        padding-right: 20px;
+    }
+    .map-box > iframe{
+        min-height: 240px;
+    }
+    .map-box{
+        margin: 0 -15px;
+    }
+
+}
+@media(min-width:453px){
+	/* header-section*/ 
+	.heder-land-mark{
+		font-size: 14px;
+	}
+	.heder-land-mark span{
+		margin-right: 2px;
+		font-size: 15px
+	}
+	.header-brads{
+		padding: 20px 0
+	}
+	.head-ph-no{
+		font-size: 14px
+	}
+	/*--guids-section--*/
+    .guide-heading{
+    	font-size: 25px;
+    }
+    /*welcome-section*/
+    .heading{
+    	font-size: 25px;
+    }
+    .welcome-text-img > a > img{
+    	max-width: 60%;
+    }
+    /*services-section*/
+    .left-box-1{
+    	padding: 29px 68px 0 0; 
+    }
+    .left-box-1 > span{
+    	left: initial;
+    	right: 0;
+    	top: 44%;
+    	font-size: 18px;
+        padding: 14px;
+    }
+    .left-box-1.pull-right{
+    	text-align: right;
+    	padding: 29px 0 0 68px; 
+    }
+    .left-box-1 > span.glyphicon-tag{
+    	left: 0;
+    }
+    .main-services{
+    	margin: 0;
+    }
+    .left-box-1 p:nth-child(1){
+    	font-size: 16px;
+    }
+    .left-box-1 p:nth-child(2){
+    	font-size: 15px
+    }
+    /*about-section-2*/
+    .list-birds > a{
+    	font-size: 14px;
+    }
+    .list-brids > li > a{
+    	font-size: 14px;
+    }
+    .list-brids > li{
+    	margin: 8px 0;
+    }
+    .exotic-brads > a{
+    	font-size: 14px;
+    }
+    .exotic-brads > p{
+    	font-size: 14px;
+    	line-height: 24px;
+    }
+    /*galler-page-start*/
+    .gallery-item .img-back-1{
+        transform:scale(1.5) rotate(327deg) translateY(-292px);
+    }
+    .gallery-item .img-back-2{
+        transform: scale(1.5) rotate(147deg) translateY(-292px);
+    }
+    /*services-page-strat*/
+    .services-section{
+        margin: 40px 0 0;
+    }
+    .button-box {
+        margin: 20px 0;
+    }
+    .heading-row{
+        margin-top: 25px
+    }
+    .heading-row > h1{
+        font-size: 36px;
+    }
+    .heading-row > h2{
+        font-size: 30px;
+    }
+    .heading-row > h3{
+        font-size: 24px;
+    }
+    .heading-row > h4{
+        font-size: 18px;
+    }
+    .heading-row > h5{
+        font-size: 14px;
+    }
+    .heading-row > h6{
+        font-size: 12px;
+    }
+    .button-box > h1{
+        font-size: 25px;
+    }
+    .button-box > h2:nth-child(3){
+        font-size: 23px;
+    }
+    .button-box > h3{
+        font-size: 21px
+    }
+    .button-box > h4{
+        font-size: 19px
+    }
+    .button-box > h5{
+        font-size: 17px
+    }
+    .button-box > h5{
+        font-size: 15px
+    }
+    .progress-box p{
+        font-size: 15.5px;
+    }
+    .button-box .well{
+        font-size: 16px;
+    }
+    /*contact-page-start*/
+    .contact-form > .form-control{
+        padding: 12px 12px;
+        font-size: 15px;
+    }
+    .contact-form > textarea.form-control{
+        height: 192px;
+    }
+    .contact-form{
+        margin-bottom: 14px
+    }
+    /*finde-us-section*/
+    .find-us-left > p:nth-child(3){
+        font-size: 15.5px;
+    }
+    .find-us-left{
+        padding: 50px 20px 40px 19px;
+    }
+    .find-us-left > span{
+        font-size: 40px;
+    }
+    .find-us-left > h2{
+        font-size: 26px;
+        margin: 11px 0 15px;
+    }
+    .map-box > iframe{
+        min-height: 350px
+    }
+    .map-box > iframe{
+        min-height: 500px
+    }
+    .find-us-left > h2{
+        font-size: 30px;
+    }
+
+}
+@media(min-width: 768px){
+	.navbar-toggle{
+		display: none;
+	}
+	.container .navbar-collapse{
+		position: static;
+		width: initial;
+		background: none;
+	}
+	.nav.navbar-nav{
+		display: inline-block;
+		width: initial;
+	}
+	.navbar-default{
+		padding: 30px 0
+	}
+	.navbar-default .navbar-nav > li > a{
+		font-size: 18.4px;
+		color: #999;
+		font-weight: 100;
+	}
+	.nav > li{
+		padding: 0
+	}
+	.slick-next,
+	.slick-next:hover,
+	.slick-next:focus{
+		right: 0;
+		width: 50px;
+		height: 50px;
+	}
+	.slick-prev,
+	.slick-prev:hover{
+		left: 0;
+		z-index: 2000;
+		width: 50px;
+		height: 50px;
+
+	}
+	/*--guids-section--*/
+	.guide-section{
+		margin: 47px 0;
+	}
+	.guide-heading{
+		font-size: 28px;
+	}
+	.car-advice li > a{
+		font-size: 14px;
+	}
+	.car-advice li{
+		margin: 0 0 10px 22px;
+	}
+	/*welcome-section*/
+	.heading{
+		font-size: 28px;
+	}
+	.welcome-heading > .heading{
+		text-align: left;
+	}
+	.welcome-text-img > a > img{
+       min-width: 100%;
+    }
+    .welcome-text-img{
+    	text-align: left;
+    }
+    /*services-section*/
+    .main-services{
+    	margin-top: 40px
+    }
+    .our-section{
+    	margin: 50px 0 0;
+    }
+    .left-box-1{
+    	width: 50%;
+    	text-align: right;
+    	padding: 10px 56px 10px 11px;
+    }
+    .devicion-bar{
+    	display: block;
+    }
+    .left-box-1 > span{
+       top: 0;
+       right: -26.9px;
+    }
+    .left-box-1 > span.glyphicon-tag{
+    	right: initial;
+        left: -26.9px;
+    }
+    .left-box-1.pull-right{
+    	text-align: left;
+    	padding: 10px 11px 10px 56px;
+    }
+    .devicion-bar{
+    	height: 406px;
+    }
+    /*about-section-2*/
+	.list-birds > a{
+	  margin: 15px 0 20px;
+	}
+	.about-section-2{
+		margin: 80px 0 46px;
+	}
+	/*our-bird-section*/
+	.our-birds-section > span > .box-inner{
+    	width: 250px;
+    	height: 250px;
+    }
+    .box-inner > .text-box > p{
+    	font-size: 16px;
+    	line-height: 19px;
+    	padding-top: 43px;
+    }
+    .our-birds-section > span{
+    	margin: 18px 31px;
+    }
+    /*footer-section*/
+    .footer-copyright-section p{
+    	font-size: 16px;
+    }
+     /*go-to-top*/
+    .arrow-top > a > img{
+        width: 35px;
+        height: 26px;
+    }
+    /*categories-section-start*/
+    .categories-section .image-text-box{
+        max-width: 97.1%;
+    }
+    .categories-section{
+        margin: 50px 0 0;
+    }
+    .categories-section .image-text-box > .text-box{
+        padding: 32px;
+    }
+    .image-text-box > .text-box > h4{
+        font-size: 18px;
+    }
+    .text-box > .list-inline > li, .text-box > .list-inline > li > a {
+        font-size: 15px;
+    }
+    .text-box > .list-inline > li > span, .text-box > .list-inline > li > a > span{
+        font-size: 15.5px;
+    }
+    .text-box > .list-inline{
+        margin-top: 14px;
+        margin-bottom: 14px;
+    }
+    .image-text-box > .text-box p{
+        line-height: 25px
+    }
+    .related-box{
+        margin-bottom: 15px;
+    }
+    .related-box > p:nth-child(2){
+        font-size: 17px;
+        margin-top: 10px
+    }
+    .form-group.leav-input{
+        margin-bottom: 15px;
+    }
+    .leav-input > textarea{
+        min-height: 180px
+    }
+    .leav-input > input, .leav-input > textarea{
+        font-size: 15px;
+        padding: 18px 13px;
+    }
+    .leav-input > textarea{
+        padding-top: 5px
+    }
+    .send-button{
+        padding: 9px 30px;
+        font-size: 15px;
+    }
+    .leave-comment-section{
+        margin-bottom: 30px
+    }
+    .categoris-list > li > a{
+        font-size: 15px;
+    }
+    /*services-page-strat*/
+    .heading-row > small {
+        font-size: 15px;
+        padding: 10px 53px 0 0;
+    }
+    .button-box > h1{
+        font-size: 36px;
+    }
+    .button-box > h2:nth-child(3) {
+        font-size: 30px;
+    }
+    .button-box > h3{
+        font-size: 24px;
+    }
+    .button-box > h4{
+        font-size: 18px;
+    }
+    .button-box > h5{
+        font-size: 14px;
+    }
+    .button-box > h6{
+        font-size: 12px;
+    }
+    /*galler-page-start*/
+    .gallery-item .img-back-1{
+        transform:scale(1.5) rotate(327deg) translateY(-257px);
+    }
+    .gallery-item .img-back-2{
+        transform: scale(1.5) rotate(147deg) translateY(-257px);
+    }
+    .gallery-bg{
+        padding: 60px 0;
+    }
+    .gallery-container{
+        margin: 10px auto;
+    }
+    /*contact-page-strat*/
+    .contact-us-section{
+        margin-top: 65px
+    }
+    .contact-form-box{
+        margin-top: 30px
+    }
+    .contact-form{
+        margin-bottom: 23px
+    }
+}
+
+@media(min-width:992px){
+	.bard-logo{
+		width: 68%;
+	}
+	.heder-land-mark{
+		font-size: 15px;
+	}
+	.heder-land-mark span{
+		margin-right: 10px
+	}
+	.heder-land-mark span{
+		font-size: 16px;
+	}
+	.head-ph-no{
+		font-size: 15px
+	}
+	.header-brads{
+		padding: 23px 0;
+	}
+	/*services-section*/
+	.devicion-bar{
+		height: 300px;
+	}
+   /*about-section-2*/
+	.list-birds > a{
+		font-size: 15px;
+		margin: 15px 0 0;
+	}
+    .list-brids > li > a{
+    	font-size: 15px;
+    }
+    .exotic-brads > a{
+    	font-size: 15px;
+    }
+    .about-img-box{
+    	margin: 20px 0;
+    }
+     /*footer-section*/
+    footer{
+       margin-top: 70px
+    }
+    .footer-section{
+    	padding: 33px 0
+    }
+    .footer-copyright-section{
+    	padding: 32px 0;
+    }
+    .footer-copyright-section p{
+    	font-size: 18px;
+    }
+    .footer-box{
+    	padding: 49px 0;
+    }
+    .footer-box > p > a{
+    	font-size: 17.5px;
+    }
+    .footer-box > a > span{
+    	width: 32px;
+    	height: 32px;
+    }
+    .footer-box > a > span.facebook,
+    .footer-box > a > span.twiter,
+    .footer-box > a > span.google-plus{
+    	background-size: initial;
+    }
+    .footer-box:hover > a > span{
+    	background-position: 0 -32px;
+    }
+    .footer-box > a > span.twiter{
+    	background-position: -32px 0;
+    }
+    .footer-box:hover > a > span.twiter{
+    	background-position: -32px -32px;
+    }
+    .footer-box > a > span.google-plus{
+    	background-position: -64px 0;
+    }
+   .footer-box:hover > a > span.google-plus{
+    background-position: -64px -32px;
+    }
+    .footer-box > span{
+    	font-size: 25px;
+    }
+    .arrow-top > a > img{
+        width: initial;
+        height: initial;
+    }
+    /*categories-section-start*/
+    .categories-box {
+        margin-left: -18px;
+    }
+    .leave-comment-section > form > .col-6{
+        width: 50%;
+    }
+    /*galler-page-start*/
+    .gallery-bg{
+        padding: 70px 0
+    }
+    .gallery-container{
+        margin: 10px auto;
+    }
+    /*contact-page-start*/
+    .contact-us-section{
+        margin: 80px 0;
+    }
+    .contact-form-box{
+        margin-top: 45px
+    }
+}
+
+@media(min-width:1199px){
+	.heder-land-mark{
+		font-size: 16px;
+	}
+	.bard-logo{
+		width: initial;
+	}
+	.header-main{
+		padding: 0 15px
+	}
+	.head-ph-no{
+		font-size: 16px;
+	}
+	.header-brads{
+		padding: 25px 0;
+	}
+	/*--guids-section--*/
+	.guide-heading{
+		font-size: 35px;
+	}
+	.guide-section{
+		margin: 80px 0 50px;
+	}
+	.guide-img-inner img{
+		width: initial;
+	}
+	.car-advice li > a{
+		font-size: 15px;
+	}
+	.guide-img-inner{
+		padding: 0 19px;
+		margin: 25px 0;
+	}
+	/*welcome-section*/
+	.heading{
+		font-size: 35px;
+	}
+	.welcome-text-img > p:nth-child(2){
+        font-size: 15px;
+	}
+	.welcome-text-img > p:nth-child(3){
+		font-size: 15px;
+	}
+	.welcome-text-img{
+		margin-top: 25px
+	}
+	.our-articale-box > p{
+		font-size: 15px;
+	}
+	.articale-sub-box > .text-box > a{
+		font-size: 15px; 
+	}
+	.articale-sub-box > .text-box > p{
+		font-size: 15px;
+	}
+	.video-heading{
+    	text-align: left;
+    }
+    .video-box-1{
+    	width: 97%;
+    	margin-top: 20px
+    }
+    /*services-section*/
+    .our-section{
+    	margin: 60px 0 0;
+    }
+    .main-services{
+    	margin: 57px 0 0;
+    }
+    .devicion-bar{
+    	height: 379px
+    }
+    .left-box-1{
+    	padding: 10px 70px 40px 45px;
+    }
+    .left-box-1 p:nth-child(1){
+    	font-size: 17.5px
+    }
+    .left-box-1 > span{
+    	font-size: 25px;
+    	right: -29.9px;
+    }
+    .left-box-1.pull-right{
+        padding: 0 45px 40px 70px;
+    }
+    /*about-section-2*/
+	.list-birds > a{
+		margin-bottom: 10px
+	}
+	/*our-brads-section*/
+	.our-bird-section {
+        margin: 55px 0 0;
+    }
+    .our-birds-section{
+    	margin: 35px 0;
+    }
+    .our-birds-section > span{
+    	margin: 0 31px;
+    }
+    /*categories-section-start*/
+    .categories-section{
+        margin: 80px 0 0;
+    }
+    .related-box {
+        margin: 30px 0;
+    }
+    .image-text-box > .text-box p{
+        line-height: 27px;
+        font-size: 15px;
+        margin-top: 15px
+    }
+    .image-text-box > .text-box > h4{
+        font-size: 20px;
+    }
+    .categories-section .image-text-box{
+        margin-bottom: 30px
+    }
+    .related-box > p:nth-child(2){
+        font-size: 17.5px;
+    }
+    .related-box > p:nth-child(3){
+        font-size: 15px;
+    }
+    .leave-comment-section{
+        margin: 30px 0 0;
+    }
+    .categories-box + .categories-box {
+        margin-top: 33px;
+    }
+    /*services-section*/
+    .services-section{
+        margin: 50px 0;
+    }
+    .heading-row{
+        margin-top: 37px
+    }
+    .heading-row > small{
+        font-size: 16px;
+        padding: 10px 170px 0 0;
+    }
+    .button-box{
+        margin: 30px 0;
+    }
+    .button-box .heading{
+        margin-bottom: 33px;
+    }
+    /*finde-us-section*/
+    .find-us-left{
+        padding: 50px 50px 0 46px;
+    }
+    .find-us-left > span{
+        font-size:  46px;
+    }
+    .find-us-left > h2{
+        font-size: 35px;
+    }
+    .find-us-left > p:nth-child(3){
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+    .addres{
+        margin-top: 20px;
+        padding: 0;
+    }
+    .find-us-left > p:nth-child(4) {
+        font-size: 15px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
